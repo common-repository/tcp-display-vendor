@@ -1,0 +1,14 @@
+.link_delete {
+	color: #b32d2e;
+	text-decoration: none;
+}
+.link_delete:hover {
+	color: #b32d2e;
+	text-decoration: underline;
+}
+.del_span {
+	display: none;
+}
+.form-table tr:hover .del_span {
+	display: inline;
+}

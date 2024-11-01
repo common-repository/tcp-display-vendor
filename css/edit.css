@@ -1,0 +1,7 @@
+table.wp-list-table .column-vendor {
+	width: 8ch;
+}
+.select2-container,
+.select2-dropdown {
+	min-width: 160px;
+}

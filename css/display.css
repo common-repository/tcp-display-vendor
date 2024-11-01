@@ -1,0 +1,6 @@
+.summary .product_vendor,
+.cart_item .product_vendor,
+.order_item .product_vendor {
+	font-size: .8rem !important;
+	margin-bottom: .5em !important;
+}
